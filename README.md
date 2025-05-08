@@ -36,7 +36,7 @@
 |------------|------------|------------|------------|
 | ![](assets/5.png) | ![](assets/6.png) | ![](assets/7.png) | ![](assets/8.png) |
 
-| Tampilan 9 |            |            |            |
+| Tampilan 9 | Tampilan 10 | Tampilan 11 | Tampilan 12 |
 |------------|------------|------------|------------|
 | ![](assets/9.png) | ![](assets/10.png) | ![](assets/11.png) | ![](assets/12.png) |
 
